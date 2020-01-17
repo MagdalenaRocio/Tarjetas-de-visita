@@ -1,0 +1,35 @@
+
+.card-deck{
+display:flex;
+width: 70%;
+height: 590px;
+text-align: center;
+justify-content: space-around;
+align-items:center;
+margin-left: 17%;
+margin-top: 90px;
+text-transform:capitalize;
+text-align: left;
+background-color: #F1F1F1;
+}
+
+.card-img-top{
+	width: 70%;
+	height: 140px;
+}
+.card{
+	align-items: center;
+	justify-content:space-between;
+	margin: left;
+
+}
+
+.card-text{
+	text-align: left;
+	margin-bottom: 40px;
+}
+.primera{
+	text-align: left;
+	margin-left: 17%;
+	padding: 30px;
+}
